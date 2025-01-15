@@ -11,7 +11,7 @@ var btn= document.getElementById('btn');
 function pegar(){
     input_info=document.getElementById('entrada').value; 
    if (input_info==''){
-    texto.value='Build by Dalff! Escreva uma Tarefa Porfavor'
+    texto.value='Build by Dalff! Put ur Task'
     texto.style.color= 'red'
     texto.style.fontWeight='bold'
     btn.style.backgroundColor= 'red'
